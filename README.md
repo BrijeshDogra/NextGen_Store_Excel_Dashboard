@@ -1,2 +1,2 @@
 # NextGen_Store_Excel_Dashboard
-NextGen Store Excel Dashboard
+NextGen Store Dashboard using Excel
